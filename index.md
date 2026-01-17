@@ -1,29 +1,6 @@
-# Kiran Madhukar Mohite
+# Kiran Mohite
 
 ### ETL Engineer  
-Python | SQL | Data Pipelines | Automation
+Python | SQL | Data Pipelines | Automation | Snowflake
 
-ETL Engineer with 15+ years of experience designing Python- and SQL-based
-data pipelines and automation platforms in banking and enterprise
-environments.
-
-📍 Mumbai  
-📧 kiranmohite6004@gmail.com  
-🔗 LinkedIn | GitHub
-
----
-
-## 📄 Resume
-👉 **[Download Resume (PDF)](resume/Kiran_M_Mohite_Python_ETL.pdf)**
-
----
-
-## 🧪 Projects
-👉 **[View ETL Projects](projects.md)**
-
----
-
-## 🛠️ Skills
-- Python, SQL, Flask, Celery
-- ETL Pipelines, Data Reconciliation
-- Docker, Kubernetes, AWS
+ETL Engineer with hands-on experience in building batch data pipelines, automating data workflows, and transforming raw data into analytics-ready datasets using Python and SQL. Actively transitioning toward Data Engineering roles with a focus on cloud data warehouses and scalable data processing.
