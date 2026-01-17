@@ -3,4 +3,10 @@
 ### ETL Engineer  
 Python | SQL | Data Pipelines | Automation | Snowflake
 
-ETL Engineer with hands-on experience in building batch data pipelines, automating data workflows, and transforming raw data into analytics-ready datasets using Python and SQL. Actively transitioning toward Data Engineering roles with a focus on cloud data warehouses and scalable data processing.
+ETL Engineer with hands-on experience in building batch data pipelines and automating data workflows using Python and SQL.
+
+## 📌 Portfolio Sections
+- 🛠️ [Skills](./skills)
+- 🚀 [Projects](./projects)
+- 💼 [Experience](./experience)
+- 📄 [Resume](./resume/Kiran_M_Mohite_Data_Engineer_STAR_Resume.docx)
