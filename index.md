@@ -13,7 +13,7 @@ environments.
 ---
 
 ## 📄 Resume
-👉 **[Download Resume (PDF)](resume/Kiran_M_Mohite_ETL_Engineer.pdf)**
+👉 **[Download Resume (PDF)](resume/Kiran_M_Mohite_Python_ETL.pdf)**
 
 ---
 
