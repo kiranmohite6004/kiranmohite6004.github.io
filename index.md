@@ -1,6 +1,7 @@
 # Kiran Madhukar Mohite
 
-**ETL Engineer | Python | SQL | Data Pipelines | Automation**
+### ETL Engineer  
+Python | SQL | Data Pipelines | Automation
 
 ETL Engineer with 15+ years of experience designing Python- and SQL-based
 data pipelines and automation platforms in banking and enterprise
