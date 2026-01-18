@@ -50,28 +50,90 @@
         </div>
     </section>
 
-    <section class="experience">
-        <h2>Professional Experience</h2>
-        <div class="job">
-            <h3>Application: ETL based Automation Platform - Sirius</h3>
-            <p><strong>Employer:</strong> LTIMindtree | <strong>Client:</strong> Nordea Abp | <strong>Oct 2021 – Present</strong></p>
-            <ul>
-                <li>Designed and implemented ETL jobs in Python (Flask + Celery) for structured development.</li>
-                <li>Built Flask-Dash web app to schedule and execute Python jobs, improving automation.</li>
-                <li>Managed microservices with Docker/Kubernetes and CI/CD pipelines using Bitbucket/Bamboo/Artifactory.</li>
-            </ul>
-        </div>
-        <div class="job">
-            <h3>Application: Agent automation, FiBT Simulation tool</h3>
-            <p><strong>Employer:</strong> Capgemini | <strong>Client:</strong> Micro Focus | <strong>Jul 2018 – Oct 2021</strong></p>
-            <ul>
-                <li>Developed automation agents and test automation for storage infrastructure and VMware systems.</li>
-                <li>Built and maintained FiBT simulation tool for storage validation and simulation.</li>
-            </ul>
-        </div>
-        <!-- Add more experience blocks similarly -->
-    </section>
+<!-- EXPERIENCE -->
+<section class="section">
+  <h2>Professional Experience</h2>
 
+  <div class="timeline">
+
+    <!-- LTIMindtree -->
+    <div class="timeline-item">
+      <h3>ETL / Automation Engineer – Sirius Platform</h3>
+      <span>LTIMindtree → Nordea Bank | Oct 2021 – Present</span>
+      <ul>
+        <li>Collaborated with business and technical teams to assess data needs and optimize strategic source usage using SQL.</li>
+        <li>Designed and implemented ETL jobs in Python using Flask and Celery for structured, scalable development.</li>
+        <li>Built a Flask–Dash web application to schedule, execute, and monitor Python jobs, improving automation adoption.</li>
+        <li>Managed containerized microservices using Docker and Kubernetes.</li>
+        <li>Set up and maintained CI/CD pipelines using Bitbucket, Bamboo, and Artifactory.</li>
+        <li>Conducted code reviews and contributed to reusable Python libraries and REST APIs.</li>
+      </ul>
+    </div>
+
+    <!-- Capgemini -->
+    <div class="timeline-item">
+      <h3>Automation Engineer – Agent Automation & FiBT Simulation</h3>
+      <span>Capgemini → Micro Focus | Jul 2018 – Oct 2021</span>
+      <ul>
+        <li>Developed automation agents for backup and restore workflows in Data Protector.</li>
+        <li>Implemented test automation and feature enhancements for storage array modules.</li>
+        <li>Automated VMware-based infrastructure features using APIs.</li>
+        <li>Built and maintained the FiBT simulation tool – a nested virtual test environment for storage validation.</li>
+        <li>Improved system stability, provisioning speed, and test coverage.</li>
+      </ul>
+    </div>
+
+    <!-- Virtusa -->
+    <div class="timeline-item">
+      <h3>Consultant – Asset & Application Relationship Manager</h3>
+      <span>Virtusa Polaris → Nomura Bank | Jan 2016 – Jul 2018</span>
+      <ul>
+        <li>Managed application modeling and IT asset mapping within a CMDB platform.</li>
+        <li>Delivered an end-to-end solution integrating A2RM with ServiceNow.</li>
+        <li>Supported and enhanced legacy Perl–Apache applications with MySQL backend.</li>
+        <li>Assisted in platform migration and process automation initiatives.</li>
+        <li>Streamlined inventory collection and relationship tracking across IT systems.</li>
+      </ul>
+    </div>
+
+    <!-- TechPartnerME -->
+    <div class="timeline-item">
+      <h3>ETL / Reconciliation Developer</h3>
+      <span>TechPartnerME → Axis Bank, Godrej | Jun 2014 – Dec 2015</span>
+      <ul>
+        <li>Developed reconciliation scripts in Perl for ATM, card, cash, and BNA transaction data.</li>
+        <li>Automated data formatting and conversion for proprietary reporting templates.</li>
+        <li>Generated SQL Server reports using Report Builder 3.0.</li>
+        <li>Reduced report build time through automation and standardization.</li>
+      </ul>
+    </div>
+
+    <!-- Symphony -->
+    <div class="timeline-item">
+      <h3>Software Developer – Channel Distribution Management System</h3>
+      <span>Symphony Technoventures → Sony India | Aug 2013 – Mar 2014</span>
+      <ul>
+        <li>Developed a web-based system to manage distributor payments and receipts.</li>
+        <li>Created dynamic Perl CGI scripts and front-end workflows.</li>
+        <li>Wrote MySQL queries for backend processing and reporting.</li>
+        <li>Improved reporting turnaround and distributor operations efficiency.</li>
+      </ul>
+    </div>
+
+    <!-- Skyscape -->
+    <div class="timeline-item">
+      <h3>Software Engineer – Medical Content Development</h3>
+      <span>Skyscape India → Physicians Interactive | Jun 2011 – Aug 2013</span>
+      <ul>
+        <li>Analyzed XML structures to extract medical tags and entities.</li>
+        <li>Wrote Perl scripts to automate proprietary medical content generation.</li>
+        <li>Developed XSLT stylesheets to render XML into HTML for QA and validation.</li>
+        <li>Supported delivery of medical calculators, guidelines, and reference tools.</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
     <section class="education">
         <h2>Education</h2>
         <p><strong>B.E.</strong> – Lokmanya Tilak College of Engineering, 2011 | 68.60%</p>
