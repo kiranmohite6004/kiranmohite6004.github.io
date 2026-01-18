@@ -1,102 +1,103 @@
----
-layout: home
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiran Madhukar Mohite | IT Consultant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container header-container">
+            <div class="intro">
+                <h1>👋 Hi, I'm <span>Kiran Madhukar Mohite</span></h1>
+                <p><strong>Mid-level IT Consultant</strong> | Python | Flask | ETL | Automation</p>
+                <p>Building automation-driven solutions for a smarter business world.</p>
+                <div class="contact-buttons">
+                    <a href="https://www.linkedin.com/in/kiranmohite" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://github.com/kiranmohite6004" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="mailto:kiranmohite6004@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+                    <a href="#" class="resume-btn">Download Resume</a>
+                </div>
+            </div>
+            <div class="profile-pic">
+                <img src="profile.png" alt="Kiran Mohite">
+            </div>
+        </div>
+    </header>
 
-<!-- HERO SECTION -->
-<div class="hero">
+    <section class="about">
+        <h2>About Me</h2>
+        <ul>
+            <li>Results-driven IT Consultant experienced in Python, Flask, Celery, and Dash.</li>
+            <li>Expertise in ETL pipelines, automation, and scalable deployments using Docker & Kubernetes.</li>
+            <li>Proven ability to collaborate with cross-functional teams in Nordic work environments.</li>
+        </ul>
+    </section>
 
-<img src="assets/img/profile.jpg" alt="Kiran Mohite" class="profile-photo">
+    <section class="skills">
+        <h2>Skills</h2>
+        <div class="skills-container">
+            <span>Python</span>
+            <span>Flask</span>
+            <span>Perl</span>
+            <span>Celery</span>
+            <span>Dash</span>
+            <span>Docker</span>
+            <span>Kubernetes</span>
+            <span>AWS</span>
+            <span>SQL</span>
+        </div>
+    </section>
 
-<h1>👋 Hi, I'm <strong>Kiran Mohite</strong></h1>
+    <section class="experience">
+        <h2>Professional Experience</h2>
+        <div class="job">
+            <h3>Application: ETL based Automation Platform - Sirius</h3>
+            <p><strong>Employer:</strong> LTIMindtree | <strong>Client:</strong> Nordea Abp | <strong>Oct 2021 – Present</strong></p>
+            <ul>
+                <li>Designed and implemented ETL jobs in Python (Flask + Celery) for structured development.</li>
+                <li>Built Flask-Dash web app to schedule and execute Python jobs, improving automation.</li>
+                <li>Managed microservices with Docker/Kubernetes and CI/CD pipelines using Bitbucket/Bamboo/Artifactory.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Application: Agent automation, FiBT Simulation tool</h3>
+            <p><strong>Employer:</strong> Capgemini | <strong>Client:</strong> Micro Focus | <strong>Jul 2018 – Oct 2021</strong></p>
+            <ul>
+                <li>Developed automation agents and test automation for storage infrastructure and VMware systems.</li>
+                <li>Built and maintained FiBT simulation tool for storage validation and simulation.</li>
+            </ul>
+        </div>
+        <!-- Add more experience blocks similarly -->
+    </section>
 
-<h3>ETL Engineer</h3>
-<p><strong>Python | SQL | Data Pipelines | Automation | Snowflake</strong></p>
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>B.E.</strong> – Lokmanya Tilak College of Engineering, 2011 | 68.60%</p>
+    </section>
 
-<p>ETL Engineer with hands-on experience in building <strong>batch data pipelines</strong> and <strong>automating data workflows</strong> using Python and SQL.</p>
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>AWS Certified Cloud Practitioner (CLF-C02) – Jan 2025</li>
+            <li>Brain Bench Certified Perl Programmer – 2014</li>
+            <li>Study Section Certified Perl Programmer – 2020</li>
+        </ul>
+    </section>
 
-<a href="./resume/Kiran_Mohite_Resume.pdf" class="btn">📄 Download Resume</a>
+    <section class="personal">
+        <h2>Personal Details</h2>
+        <ul>
+            <li>Date of Birth: February 6, 1990</li>
+            <li>Hobbies: Riding solo on two wheels</li>
+            <li>Strengths: Adaptable, experience working with diverse cultures</li>
+        </ul>
+    </section>
 
-</div>
-
----
-
-<!-- PROJECTS SECTION -->
-## 🚀 Projects
-
-<div class="projects-grid">
-
-<!-- PROJECT TEMPLATE START -->
-
-<div class="project-card">
-
-### 📊 ETL Pipeline to Snowflake Data Warehouse
-
-**Description:**  
-A batch ETL pipeline built using Python and SQL to transform raw sales data into an analytics-ready Snowflake data warehouse with data quality validations.
-
-**Tech Stack:**  
-Python, SQL, Snowflake, Pandas
-
-**Highlights:**
-- Batch data ingestion and transformation using Python  
-- STAR-schema based data warehouse modeling  
-- Data quality checks for integrity and consistency  
-- Analytics-ready SQL queries for reporting  
-
-🔗 **GitHub:**  
-[View Project](https://github.com/kiranmohite6004/etl-snowflake-data-warehouse)
-
-</div>
-
-<div class="project-card">
-
-### 🧾 Personal Finance Tracker (Python)
-
-**Description:**  
-A Python-based personal finance tracking tool to record, categorize, and analyze income and expenses using a local database.
-
-**Tech Stack:**  
-Python, SQLite
-
-**Highlights:**
-- Tracks income and expense transactions  
-- Stores financial data in a local SQLite database  
-- Categorizes expenses for basic analysis  
-- Lightweight, automation-focused Python implementation  
-
-🔗 **GitHub:**  
-[View Project](https://github.com/kiranmohite6004/PersonalFinance)
-
-</div>
-
-<!-- PROJECT TEMPLATE END -->
-
-</div>
-
----
-
-<!-- EXPERIENCE SECTION -->
-## 💼 Experience
-
-### Senior ETL / Data Engineer  
-**Financial Services Domain** | 2015 – Present  
-
-- Designed and maintained batch ETL pipelines  
-- Automated data validation and reconciliation processes  
-- Worked extensively with SQL-based data warehouses and Snowflake  
-
-### ETL Developer  
-**Enterprise Data Platforms** | 2010 – 2015  
-
-- Developed ETL workflows for data ingestion and transformation  
-- Supported production issues and data quality investigations  
-
----
-
-<!-- CONTACT SECTION -->
-## 📬 Contact
-
-- 📧 Email: **kiranmohite@email.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/kiranmohite6004/  
-- 💻 GitHub: https://github.com/kiranmohite6004
+    <footer>
+        <p>© 2026 Kiran Madhukar Mohite | Designed with ❤️</p>
+    </footer>
+</body>
+</html>
